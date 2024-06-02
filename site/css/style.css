@@ -1,0 +1,31 @@
+.logo
+{
+width: 4vw;
+position:fixed; 
+bottom:0px;
+right:0px;
+z-index: 5;
+}
+.mainPage{
+    background-color:beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-style: normal;
+}
+.description
+{
+float:left;
+width:48%;
+padding:4vw 0.25vw;
+border: 0.5vw;
+text-align: center;
+
+
+
+
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
